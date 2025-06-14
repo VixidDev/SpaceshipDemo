@@ -1,0 +1,11 @@
+.vs
+.vscode
+_build_/
+bin/
+lib/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+Makefile
+*.make
