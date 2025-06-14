@@ -4,6 +4,8 @@ Small OpenGL project showing a simple spaceship taking off in an arc with partic
 
 The project was mainly used to learn OpenGL early on, transformations and matrices are implemented by scratch and uses fontstash to do text rendering.
 
+https://github.com/user-attachments/assets/2fdba759-7daf-42cf-b24f-aebb229edbea
+
 #### Keybinds
 
 - `Space` - Enable / disable cursor focus
